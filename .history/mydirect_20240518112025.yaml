@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,odysseyplus.site
+  - DOMAIN-SUFFIX,acgoku.co
+
+- DOMAIN-SUFFIX,suliult.me
+- DOMAIN-SUFFIX,cidp.edu.cn
+- DOMAIN-SUFFIX,yaohuo.me
+- DOMAIN-SUFFIX,52pojie.cn
+- IP-CIDR,172.207.134.0/24
