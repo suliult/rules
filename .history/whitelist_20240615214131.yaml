@@ -4,4 +4,4 @@ payload:
   - DOMAIN-SUFFIX,gtimg.cn
   - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,cloud.rovio.com
-  - DOMAIN-SUFFIX,s3.pstatp.com
+  # s3.pstatp.com4
