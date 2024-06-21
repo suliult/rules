@@ -3,4 +3,4 @@ payload:
   - DOMAIN-SUFFIX,cidp.edu.cn
   - DOMAIN-SUFFIX,yaohuo.me
   - DOMAIN-SUFFIX,52pojie.cn
-  - IP-CIDR,172.207.134.0/24
+  - IP-CIDR,40.115.241.0/32
