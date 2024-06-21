@@ -2,4 +2,6 @@ payload:
   - DOMAIN-SUFFIX,suliult.me
   - DOMAIN-SUFFIX,yaohuo.me
   - DOMAIN-SUFFIX,52pojie.cn
+  - DOMAIN-SUFFIX,2.cn
+  - DOMAIN-SUFFIX,1.cn
   - IP-CIDR,40.115.241.0/24
