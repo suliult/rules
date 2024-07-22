@@ -3,7 +3,8 @@ payload:
   - DOMAIN-SUFFIX,odysseyplus.site
   - DOMAIN-SUFFIX,acgku.co
   - DOMAIN-SUFFIX,tanhuatv.site
-  - DOMAIN-SUFFIX,plusmedia.site
+  - DOMAIN-SUFFIX,plusmedia.site 
+  - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-KEYWORD,pilipiliultra
   - DOMAIN-KEYWORD,embyplus
 
