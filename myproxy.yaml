@@ -1,10 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,jike.info
+  - DOMAIN-SUFFIX,larksuite.com
   -  # Add poe.com
   - DOMAIN-SUFFIX,poe.com
 
-  -  # Add Anthropic
-  - DOMAIN,servd-anthropic-website.b-cdn.net
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai
+  
