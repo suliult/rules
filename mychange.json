@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "emby.wtf",
+        "odysseyplus.site",
+        "acgku.co",
+        "tanhuatv.site",
+        "plusmedia.site",
+        "emby.xeton.dev",
+        "pilipiliultra.top",
+        "pilipiliultra.com",
+        "embyplus.org"
+      ]
+    }
+  ]
+}

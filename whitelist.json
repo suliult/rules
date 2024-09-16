@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "e.qq.com",
+        "gdt.qq.com",
+        "gtimg.cn",
+        "gdtimg.com",
+        "cloud.rovio.com",
+        "s3.pstatp.com"
+      ]
+    }
+  ]
+}
